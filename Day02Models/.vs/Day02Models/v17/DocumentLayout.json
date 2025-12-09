@@ -1,0 +1,153 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\devmaster.edu.vn\\K22CNT-TrainingIntern\\AspNetCore\\Day02Models\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{843E65EF-DC67-4679-A712-F03BAF6F86B1}|Day02Models.csproj|d:\\devmaster.edu.vn\\k22cnt-trainingintern\\aspnetcore\\day02models\\controllers\\peoplecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{843E65EF-DC67-4679-A712-F03BAF6F86B1}|Day02Models.csproj|solutionrelative:controllers\\peoplecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{843E65EF-DC67-4679-A712-F03BAF6F86B1}|Day02Models.csproj|d:\\devmaster.edu.vn\\k22cnt-trainingintern\\aspnetcore\\day02models\\models\\people.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{843E65EF-DC67-4679-A712-F03BAF6F86B1}|Day02Models.csproj|solutionrelative:models\\people.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{843E65EF-DC67-4679-A712-F03BAF6F86B1}|Day02Models.csproj|d:\\devmaster.edu.vn\\k22cnt-trainingintern\\aspnetcore\\day02models\\views\\people\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{843E65EF-DC67-4679-A712-F03BAF6F86B1}|Day02Models.csproj|solutionrelative:views\\people\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{843E65EF-DC67-4679-A712-F03BAF6F86B1}|Day02Models.csproj|d:\\devmaster.edu.vn\\k22cnt-trainingintern\\aspnetcore\\day02models\\views\\people\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{843E65EF-DC67-4679-A712-F03BAF6F86B1}|Day02Models.csproj|solutionrelative:views\\people\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{843E65EF-DC67-4679-A712-F03BAF6F86B1}|Day02Models.csproj|d:\\devmaster.edu.vn\\k22cnt-trainingintern\\aspnetcore\\day02models\\models\\data.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{843E65EF-DC67-4679-A712-F03BAF6F86B1}|Day02Models.csproj|solutionrelative:models\\data.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{843E65EF-DC67-4679-A712-F03BAF6F86B1}|Day02Models.csproj|d:\\devmaster.edu.vn\\k22cnt-trainingintern\\aspnetcore\\day02models\\views\\people\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{843E65EF-DC67-4679-A712-F03BAF6F86B1}|Day02Models.csproj|solutionrelative:views\\people\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{843E65EF-DC67-4679-A712-F03BAF6F86B1}|Day02Models.csproj|d:\\devmaster.edu.vn\\k22cnt-trainingintern\\aspnetcore\\day02models\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{843E65EF-DC67-4679-A712-F03BAF6F86B1}|Day02Models.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 106,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "D:\\devmaster.edu.vn\\K22CNT-TrainingIntern\\AspNetCore\\Day02Models\\Views\\People\\Create.cshtml",
+              "RelativeDocumentMoniker": "Views\\People\\Create.cshtml",
+              "ToolTip": "D:\\devmaster.edu.vn\\K22CNT-TrainingIntern\\AspNetCore\\Day02Models\\Views\\People\\Create.cshtml",
+              "RelativeToolTip": "Views\\People\\Create.cshtml",
+              "ViewState": "AQIAACQAAAAAAAAAAAAjwDcAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-09T04:21:52.38Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "D:\\devmaster.edu.vn\\K22CNT-TrainingIntern\\AspNetCore\\Day02Models\\Views\\People\\Details.cshtml",
+              "RelativeDocumentMoniker": "Views\\People\\Details.cshtml",
+              "ToolTip": "D:\\devmaster.edu.vn\\K22CNT-TrainingIntern\\AspNetCore\\Day02Models\\Views\\People\\Details.cshtml",
+              "RelativeToolTip": "Views\\People\\Details.cshtml",
+              "ViewState": "AQIAABQAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-09T04:20:03.284Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\devmaster.edu.vn\\K22CNT-TrainingIntern\\AspNetCore\\Day02Models\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\devmaster.edu.vn\\K22CNT-TrainingIntern\\AspNetCore\\Day02Models\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACEAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-09T04:11:21.85Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\devmaster.edu.vn\\K22CNT-TrainingIntern\\AspNetCore\\Day02Models\\Views\\People\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\People\\Index.cshtml",
+              "ToolTip": "D:\\devmaster.edu.vn\\K22CNT-TrainingIntern\\AspNetCore\\Day02Models\\Views\\People\\Index.cshtml",
+              "RelativeToolTip": "Views\\People\\Index.cshtml",
+              "ViewState": "AQIAABQAAAAAAAAAAAAjwCwAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-09T04:10:36.866Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Data.cs",
+              "DocumentMoniker": "D:\\devmaster.edu.vn\\K22CNT-TrainingIntern\\AspNetCore\\Day02Models\\Models\\Data.cs",
+              "RelativeDocumentMoniker": "Models\\Data.cs",
+              "ToolTip": "D:\\devmaster.edu.vn\\K22CNT-TrainingIntern\\AspNetCore\\Day02Models\\Models\\Data.cs",
+              "RelativeToolTip": "Models\\Data.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-09T04:07:36.004Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PeopleController.cs",
+              "DocumentMoniker": "D:\\devmaster.edu.vn\\K22CNT-TrainingIntern\\AspNetCore\\Day02Models\\Controllers\\PeopleController.cs",
+              "RelativeDocumentMoniker": "Controllers\\PeopleController.cs",
+              "ToolTip": "D:\\devmaster.edu.vn\\K22CNT-TrainingIntern\\AspNetCore\\Day02Models\\Controllers\\PeopleController.cs",
+              "RelativeToolTip": "Controllers\\PeopleController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-09T04:06:45.821Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "People.cs",
+              "DocumentMoniker": "D:\\devmaster.edu.vn\\K22CNT-TrainingIntern\\AspNetCore\\Day02Models\\Models\\People.cs",
+              "RelativeDocumentMoniker": "Models\\People.cs",
+              "ToolTip": "D:\\devmaster.edu.vn\\K22CNT-TrainingIntern\\AspNetCore\\Day02Models\\Models\\People.cs",
+              "RelativeToolTip": "Models\\People.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-09T04:03:43.731Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedHeight": 20,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
