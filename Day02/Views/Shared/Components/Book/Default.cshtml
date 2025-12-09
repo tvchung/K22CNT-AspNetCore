@@ -1,0 +1,10 @@
+﻿@model IEnumerable<Day02.Models.Book>
+
+<div class="row">
+    <ul>
+        @foreach(var item in Model)
+        {
+            <li>@item.Title</li>
+        }
+    </ul>
+</div>

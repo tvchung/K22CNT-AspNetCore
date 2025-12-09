@@ -1,0 +1,153 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\devmaster.edu.vn\\K22CNT-TrainingIntern\\AspNetCore\\Day02\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3E2812CC-3BC4-4624-9C3E-2F79328C12A6}|Day02.csproj|d:\\devmaster.edu.vn\\k22cnt-trainingintern\\aspnetcore\\day02\\views\\book\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3E2812CC-3BC4-4624-9C3E-2F79328C12A6}|Day02.csproj|solutionrelative:views\\book\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E2812CC-3BC4-4624-9C3E-2F79328C12A6}|Day02.csproj|d:\\devmaster.edu.vn\\k22cnt-trainingintern\\aspnetcore\\day02\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3E2812CC-3BC4-4624-9C3E-2F79328C12A6}|Day02.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E2812CC-3BC4-4624-9C3E-2F79328C12A6}|Day02.csproj|d:\\devmaster.edu.vn\\k22cnt-trainingintern\\aspnetcore\\day02\\viewcomponents\\bookviewcomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E2812CC-3BC4-4624-9C3E-2F79328C12A6}|Day02.csproj|solutionrelative:viewcomponents\\bookviewcomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E2812CC-3BC4-4624-9C3E-2F79328C12A6}|Day02.csproj|d:\\devmaster.edu.vn\\k22cnt-trainingintern\\aspnetcore\\day02\\views\\shared\\components\\book\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3E2812CC-3BC4-4624-9C3E-2F79328C12A6}|Day02.csproj|solutionrelative:views\\shared\\components\\book\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E2812CC-3BC4-4624-9C3E-2F79328C12A6}|Day02.csproj|d:\\devmaster.edu.vn\\k22cnt-trainingintern\\aspnetcore\\day02\\views\\book\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3E2812CC-3BC4-4624-9C3E-2F79328C12A6}|Day02.csproj|solutionrelative:views\\book\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E2812CC-3BC4-4624-9C3E-2F79328C12A6}|Day02.csproj|d:\\devmaster.edu.vn\\k22cnt-trainingintern\\aspnetcore\\day02\\controllers\\bookcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E2812CC-3BC4-4624-9C3E-2F79328C12A6}|Day02.csproj|solutionrelative:controllers\\bookcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E2812CC-3BC4-4624-9C3E-2F79328C12A6}|Day02.csproj|d:\\devmaster.edu.vn\\k22cnt-trainingintern\\aspnetcore\\day02\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E2812CC-3BC4-4624-9C3E-2F79328C12A6}|Day02.csproj|solutionrelative:models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 249,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\devmaster.edu.vn\\K22CNT-TrainingIntern\\AspNetCore\\Day02\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\devmaster.edu.vn\\K22CNT-TrainingIntern\\AspNetCore\\Day02\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAAACIAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-09T03:00:33.81Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Default.cshtml",
+              "DocumentMoniker": "D:\\devmaster.edu.vn\\K22CNT-TrainingIntern\\AspNetCore\\Day02\\Views\\Shared\\Components\\Book\\Default.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\Components\\Book\\Default.cshtml",
+              "ToolTip": "D:\\devmaster.edu.vn\\K22CNT-TrainingIntern\\AspNetCore\\Day02\\Views\\Shared\\Components\\Book\\Default.cshtml",
+              "RelativeToolTip": "Views\\Shared\\Components\\Book\\Default.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-09T02:56:33.574Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BookViewComponent.cs",
+              "DocumentMoniker": "D:\\devmaster.edu.vn\\K22CNT-TrainingIntern\\AspNetCore\\Day02\\ViewComponents\\BookViewComponent.cs",
+              "RelativeDocumentMoniker": "ViewComponents\\BookViewComponent.cs",
+              "ToolTip": "D:\\devmaster.edu.vn\\K22CNT-TrainingIntern\\AspNetCore\\Day02\\ViewComponents\\BookViewComponent.cs",
+              "RelativeToolTip": "ViewComponents\\BookViewComponent.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-09T02:52:52.358Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "D:\\devmaster.edu.vn\\K22CNT-TrainingIntern\\AspNetCore\\Day02\\Views\\Book\\Create.cshtml",
+              "RelativeDocumentMoniker": "Views\\Book\\Create.cshtml",
+              "ToolTip": "D:\\devmaster.edu.vn\\K22CNT-TrainingIntern\\AspNetCore\\Day02\\Views\\Book\\Create.cshtml",
+              "RelativeToolTip": "Views\\Book\\Create.cshtml",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAACIAAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-09T02:44:39.452Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\devmaster.edu.vn\\K22CNT-TrainingIntern\\AspNetCore\\Day02\\Views\\Book\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Book\\Index.cshtml",
+              "ToolTip": "D:\\devmaster.edu.vn\\K22CNT-TrainingIntern\\AspNetCore\\Day02\\Views\\Book\\Index.cshtml",
+              "RelativeToolTip": "Views\\Book\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-09T02:35:51.472Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "BookController.cs",
+              "DocumentMoniker": "D:\\devmaster.edu.vn\\K22CNT-TrainingIntern\\AspNetCore\\Day02\\Controllers\\BookController.cs",
+              "RelativeDocumentMoniker": "Controllers\\BookController.cs",
+              "ToolTip": "D:\\devmaster.edu.vn\\K22CNT-TrainingIntern\\AspNetCore\\Day02\\Controllers\\BookController.cs",
+              "RelativeToolTip": "Controllers\\BookController.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAgwBYAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-09T02:30:19.483Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Book.cs",
+              "DocumentMoniker": "D:\\devmaster.edu.vn\\K22CNT-TrainingIntern\\AspNetCore\\Day02\\Models\\Book.cs",
+              "RelativeDocumentMoniker": "Models\\Book.cs",
+              "ToolTip": "D:\\devmaster.edu.vn\\K22CNT-TrainingIntern\\AspNetCore\\Day02\\Models\\Book.cs",
+              "RelativeToolTip": "Models\\Book.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAAAAkAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-09T02:07:36.501Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedHeight": 63,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
