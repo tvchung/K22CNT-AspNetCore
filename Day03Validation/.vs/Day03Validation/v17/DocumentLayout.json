@@ -1,0 +1,98 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\devmaster.edu.vn\\K22CNT-TrainingIntern\\AspNetCore\\Day03Validation\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D3952993-CF0C-4B70-B8B8-4C6C478441B8}|Day03Validation.csproj|d:\\devmaster.edu.vn\\k22cnt-trainingintern\\aspnetcore\\day03validation\\models\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3952993-CF0C-4B70-B8B8-4C6C478441B8}|Day03Validation.csproj|solutionrelative:models\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3952993-CF0C-4B70-B8B8-4C6C478441B8}|Day03Validation.csproj|d:\\devmaster.edu.vn\\k22cnt-trainingintern\\aspnetcore\\day03validation\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3952993-CF0C-4B70-B8B8-4C6C478441B8}|Day03Validation.csproj|solutionrelative:controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3952993-CF0C-4B70-B8B8-4C6C478441B8}|Day03Validation.csproj|d:\\devmaster.edu.vn\\k22cnt-trainingintern\\aspnetcore\\day03validation\\views\\account\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D3952993-CF0C-4B70-B8B8-4C6C478441B8}|Day03Validation.csproj|solutionrelative:views\\account\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3952993-CF0C-4B70-B8B8-4C6C478441B8}|Day03Validation.csproj|d:\\devmaster.edu.vn\\k22cnt-trainingintern\\aspnetcore\\day03validation\\views\\account\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D3952993-CF0C-4B70-B8B8-4C6C478441B8}|Day03Validation.csproj|solutionrelative:views\\account\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 37,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "D:\\devmaster.edu.vn\\K22CNT-TrainingIntern\\AspNetCore\\Day03Validation\\Views\\Account\\Create.cshtml",
+              "RelativeDocumentMoniker": "Views\\Account\\Create.cshtml",
+              "ToolTip": "D:\\devmaster.edu.vn\\K22CNT-TrainingIntern\\AspNetCore\\Day03Validation\\Views\\Account\\Create.cshtml",
+              "RelativeToolTip": "Views\\Account\\Create.cshtml",
+              "ViewState": "AQIAACEAAAAAAAAAAAAAABUAAABBAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-10T02:23:59.365Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\devmaster.edu.vn\\K22CNT-TrainingIntern\\AspNetCore\\Day03Validation\\Views\\Account\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Account\\Index.cshtml",
+              "ToolTip": "D:\\devmaster.edu.vn\\K22CNT-TrainingIntern\\AspNetCore\\Day03Validation\\Views\\Account\\Index.cshtml",
+              "RelativeToolTip": "Views\\Account\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADAAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-10T02:22:23.957Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "D:\\devmaster.edu.vn\\K22CNT-TrainingIntern\\AspNetCore\\Day03Validation\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "Controllers\\AccountController.cs",
+              "ToolTip": "D:\\devmaster.edu.vn\\K22CNT-TrainingIntern\\AspNetCore\\Day03Validation\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "Controllers\\AccountController.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAgwBMAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-10T02:21:25.957Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Account.cs",
+              "DocumentMoniker": "D:\\devmaster.edu.vn\\K22CNT-TrainingIntern\\AspNetCore\\Day03Validation\\Models\\Account.cs",
+              "RelativeDocumentMoniker": "Models\\Account.cs",
+              "ToolTip": "D:\\devmaster.edu.vn\\K22CNT-TrainingIntern\\AspNetCore\\Day03Validation\\Models\\Account.cs",
+              "RelativeToolTip": "Models\\Account.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAowCIAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-10T02:03:55.496Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedHeight": 2,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
