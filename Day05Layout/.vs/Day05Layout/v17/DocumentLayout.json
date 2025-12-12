@@ -1,0 +1,232 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\devmaster.edu.vn\\K22CNT-TrainingIntern\\AspNetCore\\Day05Layout\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F2A0E302-89A2-43E6-856E-FA79B93C9FC0}|..\\Day05LayoutMain\\Day05LayoutMain.csproj|d:\\devmaster.edu.vn\\k22cnt-trainingintern\\aspnetcore\\day05layoutmain\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2A0E302-89A2-43E6-856E-FA79B93C9FC0}|..\\Day05LayoutMain\\Day05LayoutMain.csproj|d:\\devmaster.edu.vn\\k22cnt-trainingintern\\aspnetcore\\day05layoutmain\\areas\\tvcadmins\\views\\dashboard\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2A0E302-89A2-43E6-856E-FA79B93C9FC0}|..\\Day05LayoutMain\\Day05LayoutMain.csproj|d:\\devmaster.edu.vn\\k22cnt-trainingintern\\aspnetcore\\day05layoutmain\\areas\\tvcadmins\\views\\shared\\_tvcadminlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2A0E302-89A2-43E6-856E-FA79B93C9FC0}|..\\Day05LayoutMain\\Day05LayoutMain.csproj|d:\\devmaster.edu.vn\\k22cnt-trainingintern\\aspnetcore\\day05layoutmain\\areas\\tvcadmins\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2A0E302-89A2-43E6-856E-FA79B93C9FC0}|..\\Day05LayoutMain\\Day05LayoutMain.csproj|d:\\devmaster.edu.vn\\k22cnt-trainingintern\\aspnetcore\\day05layoutmain\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2A0E302-89A2-43E6-856E-FA79B93C9FC0}|..\\Day05LayoutMain\\Day05LayoutMain.csproj|d:\\devmaster.edu.vn\\k22cnt-trainingintern\\aspnetcore\\day05layoutmain\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2A0E302-89A2-43E6-856E-FA79B93C9FC0}|..\\Day05LayoutMain\\Day05LayoutMain.csproj|d:\\devmaster.edu.vn\\k22cnt-trainingintern\\aspnetcore\\day05layoutmain\\day05layoutmain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2A0E302-89A2-43E6-856E-FA79B93C9FC0}|..\\Day05LayoutMain\\Day05LayoutMain.csproj|d:\\devmaster.edu.vn\\k22cnt-trainingintern\\aspnetcore\\day05layoutmain\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2A0E302-89A2-43E6-856E-FA79B93C9FC0}|..\\Day05LayoutMain\\Day05LayoutMain.csproj|d:\\devmaster.edu.vn\\k22cnt-trainingintern\\aspnetcore\\day05layoutmain\\views\\shared\\_main.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2A0E302-89A2-43E6-856E-FA79B93C9FC0}|..\\Day05LayoutMain\\Day05LayoutMain.csproj|d:\\devmaster.edu.vn\\k22cnt-trainingintern\\aspnetcore\\day05layoutmain\\views\\home\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2A0E302-89A2-43E6-856E-FA79B93C9FC0}|..\\Day05LayoutMain\\Day05LayoutMain.csproj|d:\\devmaster.edu.vn\\k22cnt-trainingintern\\aspnetcore\\day05layoutmain\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2A0E302-89A2-43E6-856E-FA79B93C9FC0}|..\\Day05LayoutMain\\Day05LayoutMain.csproj|d:\\devmaster.edu.vn\\k22cnt-trainingintern\\aspnetcore\\day05layoutmain\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 537,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\devmaster.edu.vn\\K22CNT-TrainingIntern\\AspNetCore\\Day05LayoutMain\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "..\\Day05LayoutMain\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\devmaster.edu.vn\\K22CNT-TrainingIntern\\AspNetCore\\Day05LayoutMain\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "..\\Day05LayoutMain\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-12T02:10:59.097Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\devmaster.edu.vn\\K22CNT-TrainingIntern\\AspNetCore\\Day05LayoutMain\\Areas\\TvcAdmins\\Views\\Dashboard\\Index.cshtml",
+              "RelativeDocumentMoniker": "..\\Day05LayoutMain\\Areas\\TvcAdmins\\Views\\Dashboard\\Index.cshtml",
+              "ToolTip": "D:\\devmaster.edu.vn\\K22CNT-TrainingIntern\\AspNetCore\\Day05LayoutMain\\Areas\\TvcAdmins\\Views\\Dashboard\\Index.cshtml",
+              "RelativeToolTip": "..\\Day05LayoutMain\\Areas\\TvcAdmins\\Views\\Dashboard\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-12T02:08:07.325Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DashboardController.cs",
+              "DocumentMoniker": "D:\\devmaster.edu.vn\\K22CNT-TrainingIntern\\AspNetCore\\Day05LayoutMain\\Areas\\TvcAdmins\\Controllers\\DashboardController.cs",
+              "RelativeDocumentMoniker": "..\\Day05LayoutMain\\Areas\\TvcAdmins\\Controllers\\DashboardController.cs",
+              "ToolTip": "D:\\devmaster.edu.vn\\K22CNT-TrainingIntern\\AspNetCore\\Day05LayoutMain\\Areas\\TvcAdmins\\Controllers\\DashboardController.cs",
+              "RelativeToolTip": "..\\Day05LayoutMain\\Areas\\TvcAdmins\\Controllers\\DashboardController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-12T02:07:20.495Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "_TvcAdminLayout.cshtml",
+              "DocumentMoniker": "D:\\devmaster.edu.vn\\K22CNT-TrainingIntern\\AspNetCore\\Day05LayoutMain\\Areas\\TvcAdmins\\Views\\Shared\\_TvcAdminLayout.cshtml",
+              "RelativeDocumentMoniker": "..\\Day05LayoutMain\\Areas\\TvcAdmins\\Views\\Shared\\_TvcAdminLayout.cshtml",
+              "ToolTip": "D:\\devmaster.edu.vn\\K22CNT-TrainingIntern\\AspNetCore\\Day05LayoutMain\\Areas\\TvcAdmins\\Views\\Shared\\_TvcAdminLayout.cshtml",
+              "RelativeToolTip": "..\\Day05LayoutMain\\Areas\\TvcAdmins\\Views\\Shared\\_TvcAdminLayout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAABYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-12T02:05:59.126Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\devmaster.edu.vn\\K22CNT-TrainingIntern\\AspNetCore\\Day05LayoutMain\\Program.cs",
+              "RelativeDocumentMoniker": "..\\Day05LayoutMain\\Program.cs",
+              "ToolTip": "D:\\devmaster.edu.vn\\K22CNT-TrainingIntern\\AspNetCore\\Day05LayoutMain\\Program.cs",
+              "RelativeToolTip": "..\\Day05LayoutMain\\Program.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAgwCMAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-12T02:04:17.063Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Day05LayoutMain",
+              "DocumentMoniker": "D:\\devmaster.edu.vn\\K22CNT-TrainingIntern\\AspNetCore\\Day05LayoutMain\\Day05LayoutMain.csproj",
+              "RelativeDocumentMoniker": "..\\Day05LayoutMain\\Day05LayoutMain.csproj",
+              "ToolTip": "D:\\devmaster.edu.vn\\K22CNT-TrainingIntern\\AspNetCore\\Day05LayoutMain\\Day05LayoutMain.csproj",
+              "RelativeToolTip": "..\\Day05LayoutMain\\Day05LayoutMain.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-12-12T02:02:55.69Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ScaffoldingReadMe.txt",
+              "DocumentMoniker": "D:\\devmaster.edu.vn\\K22CNT-TrainingIntern\\AspNetCore\\Day05LayoutMain\\ScaffoldingReadMe.txt",
+              "RelativeDocumentMoniker": "..\\Day05LayoutMain\\ScaffoldingReadMe.txt",
+              "ToolTip": "D:\\devmaster.edu.vn\\K22CNT-TrainingIntern\\AspNetCore\\Day05LayoutMain\\ScaffoldingReadMe.txt",
+              "RelativeToolTip": "..\\Day05LayoutMain\\ScaffoldingReadMe.txt",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-12-12T02:03:58.061Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "D:\\devmaster.edu.vn\\K22CNT-TrainingIntern\\AspNetCore\\Day05LayoutMain\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "..\\Day05LayoutMain\\Views\\_ViewStart.cshtml",
+              "ToolTip": "D:\\devmaster.edu.vn\\K22CNT-TrainingIntern\\AspNetCore\\Day05LayoutMain\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "..\\Day05LayoutMain\\Views\\_ViewStart.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-12T02:01:29.257Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "About.cshtml",
+              "DocumentMoniker": "D:\\devmaster.edu.vn\\K22CNT-TrainingIntern\\AspNetCore\\Day05LayoutMain\\Views\\Home\\About.cshtml",
+              "RelativeDocumentMoniker": "..\\Day05LayoutMain\\Views\\Home\\About.cshtml",
+              "ToolTip": "D:\\devmaster.edu.vn\\K22CNT-TrainingIntern\\AspNetCore\\Day05LayoutMain\\Views\\Home\\About.cshtml",
+              "RelativeToolTip": "..\\Day05LayoutMain\\Views\\Home\\About.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-12T02:00:25.418Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\devmaster.edu.vn\\K22CNT-TrainingIntern\\AspNetCore\\Day05LayoutMain\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "..\\Day05LayoutMain\\Controllers\\HomeController.cs",
+              "ToolTip": "D:\\devmaster.edu.vn\\K22CNT-TrainingIntern\\AspNetCore\\Day05LayoutMain\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "..\\Day05LayoutMain\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAgwB8AAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-12T01:59:42.533Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\devmaster.edu.vn\\K22CNT-TrainingIntern\\AspNetCore\\Day05LayoutMain\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "..\\Day05LayoutMain\\Views\\Home\\Index.cshtml",
+              "ToolTip": "D:\\devmaster.edu.vn\\K22CNT-TrainingIntern\\AspNetCore\\Day05LayoutMain\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "..\\Day05LayoutMain\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-12T01:58:45.49Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "_main.cshtml",
+              "DocumentMoniker": "D:\\devmaster.edu.vn\\K22CNT-TrainingIntern\\AspNetCore\\Day05LayoutMain\\Views\\Shared\\_main.cshtml",
+              "RelativeDocumentMoniker": "..\\Day05LayoutMain\\Views\\Shared\\_main.cshtml",
+              "ToolTip": "D:\\devmaster.edu.vn\\K22CNT-TrainingIntern\\AspNetCore\\Day05LayoutMain\\Views\\Shared\\_main.cshtml",
+              "RelativeToolTip": "..\\Day05LayoutMain\\Views\\Shared\\_main.cshtml",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAAAAgAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-12T01:54:43.846Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedHeight": 18,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        },
+        {
+          "DockedHeight": 1230,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
